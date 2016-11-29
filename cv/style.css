@@ -7,13 +7,13 @@
 
 .left{
   width: 30%;
-  background-color: orange; 
+  background-color: black; 
   float: left;
 }
 
 .right{
   width: 70%;
-  background-color: black;
+  background-color:orange;
   float: right;
   
 }
